@@ -1,0 +1,14 @@
+Total Revenue: ['391,035,000.00', '391,035,000.00', '383,285,000.00', '394,328,000.00', '365,817,000.00']
+         365454 function calls (362931 primitive calls) in 1.650 seconds
+
+   Ordered by: cumulative time
+   List reduced from 759 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    1.521    1.521 /Users/user/DS_Bootcamp.Day03-1/src/ex04/./financial_enhanced.py:22(parse_yahoo_finance)
+        1    0.000    0.000    1.519    1.519 /Users/user/DS_Bootcamp.Day03-1/src/ex03/user/lib/python3.13/site-packages/httpx/_api.py:167(get)
+        1    0.000    0.000    1.519    1.519 /Users/user/DS_Bootcamp.Day03-1/src/ex03/user/lib/python3.13/site-packages/httpx/_api.py:23(request)
+        1    0.000    0.000    1.505    1.505 /Users/user/DS_Bootcamp.Day03-1/src/ex03/user/lib/python3.13/site-packages/httpx/_client.py:760(request)
+        1    0.000    0.000    1.505    1.505 /Users/user/DS_Bootcamp.Day03-1/src/ex03/user/lib/python3.13/site-packages/httpx/_client.py:868(send)
+
+

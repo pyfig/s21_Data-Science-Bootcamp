@@ -1,0 +1,17 @@
+2025-01-06 18:55:19 Initialized Research class with path: data.csv
+2025-01-06 18:55:19 Reading file: data.csv
+2025-01-06 18:55:19 Successfully read file with 11 lines of data
+2025-01-06 18:55:19 Initialized Calculations with data size: 11
+2025-01-06 18:55:19 Calculating counts of heads and tails
+2025-01-06 18:55:19 Counts: heads=5, tails=6
+2025-01-06 18:55:19 Calculating fractions of heads and tails
+2025-01-06 18:55:19 Calculating counts of heads and tails
+2025-01-06 18:55:19 Counts: heads=5, tails=6
+2025-01-06 18:55:19 Fractions: head_fraction=45.45%, tail_fraction=54.55%
+2025-01-06 18:55:19 Generating 5 random predictions
+2025-01-06 18:55:19 Predictions: [[1, 1], [1, 1], [0, 0], [0, 0], [0, 0]]
+2025-01-06 18:55:19 File saved successfully: report.txt
+2025-01-06 18:55:19 Sending message to Telegram channel
+2025-01-06 18:55:19 Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-06 18:55:20 https://api.telegram.org:443 "POST /bot<TOKEN>/sendMessage HTTP/1.1" 200 377
+2025-01-06 18:55:20 Message sent successfully: The report has been successfully created
