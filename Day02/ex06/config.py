@@ -9,12 +9,11 @@ forecast is that in the next {steps} observations we will have: {predictions}.
 
 log_file = "analytics.log"
 
-
-token_bot = "CЮДА ТОКЕН"
-token_chat_id = "CЮДА ЧАТ ID"
+# get token bot for Bot = @BotFather
+token_bot = "Токен бота"
+# get chat_id for Bot = @get_id_bot
+token_chat_id = "ID чата"
 
 telegram_webhook_url = f"https://api.telegram.org/bot{token_bot}/sendMessage"
-telegram_chat_id = token_chat_id
 
-# get token bot for Bot = @BotFather
-# get chat_id for Bot = @get_id_bot
+

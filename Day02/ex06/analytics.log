@@ -15,3 +15,95 @@
 2025-01-06 18:55:19 Starting new HTTPS connection (1): api.telegram.org:443
 2025-01-06 18:55:20 https://api.telegram.org:443 "POST /bot<TOKEN>/sendMessage HTTP/1.1" 200 377
 2025-01-06 18:55:20 Message sent successfully: The report has been successfully created
+2025-01-09 20:11:54 Initialized Research class with path: data.csv
+2025-01-09 20:11:54 Reading file: data.csv
+2025-01-09 20:11:54 Successfully read file with 11 lines of data
+2025-01-09 20:11:54 Initialized Calculations with data size: 11
+2025-01-09 20:11:54 Calculating counts of heads and tails
+2025-01-09 20:11:54 Counts: heads=5, tails=6
+2025-01-09 20:11:54 Calculating fractions of heads and tails
+2025-01-09 20:11:54 Calculating counts of heads and tails
+2025-01-09 20:11:54 Counts: heads=5, tails=6
+2025-01-09 20:11:54 Fractions: head_fraction=45.45%, tail_fraction=54.55%
+2025-01-09 20:11:54 Generating 5 random predictions
+2025-01-09 20:11:54 Predictions: [[1, 0], [0, 0], [0, 0], [1, 0], [0, 1]]
+2025-01-09 20:11:54 File saved successfully: report.txt
+2025-01-09 20:11:54 Sending message to Telegram channel
+2025-01-09 20:11:54 Error sending message to Telegram: name 'requests' is not defined
+2025-01-09 20:20:09 Initialized Research class with path: data.csv
+2025-01-09 20:20:09 Reading file: data.csv
+2025-01-09 20:20:09 Successfully read file with 11 lines of data
+2025-01-09 20:20:09 Initialized Calculations with data size: 11
+2025-01-09 20:20:09 Calculating counts of heads and tails
+2025-01-09 20:20:09 Counts: heads=5, tails=6
+2025-01-09 20:20:09 Calculating fractions of heads and tails
+2025-01-09 20:20:09 Calculating counts of heads and tails
+2025-01-09 20:20:09 Counts: heads=5, tails=6
+2025-01-09 20:20:09 Fractions: head_fraction=45.45%, tail_fraction=54.55%
+2025-01-09 20:20:09 Generating 5 random predictions
+2025-01-09 20:20:09 Predictions: [[0, 0], [1, 0], [0, 1], [0, 0], [0, 1]]
+2025-01-09 20:20:09 File saved successfully: report.txt
+2025-01-09 20:20:09 Sending message to Telegram channel
+2025-01-09 20:20:09 Error sending message to Telegram: name 'requests' is not defined
+2025-01-09 20:21:09 Initialized Research class with path: data.csv
+2025-01-09 20:21:09 Reading file: data.csv
+2025-01-09 20:21:09 Successfully read file with 11 lines of data
+2025-01-09 20:21:09 Initialized Calculations with data size: 11
+2025-01-09 20:21:09 Calculating counts of heads and tails
+2025-01-09 20:21:09 Counts: heads=5, tails=6
+2025-01-09 20:21:09 Calculating fractions of heads and tails
+2025-01-09 20:21:09 Calculating counts of heads and tails
+2025-01-09 20:21:09 Counts: heads=5, tails=6
+2025-01-09 20:21:09 Fractions: head_fraction=45.45%, tail_fraction=54.55%
+2025-01-09 20:21:09 Generating 5 random predictions
+2025-01-09 20:21:09 Predictions: [[0, 1], [0, 1], [1, 1], [0, 0], [0, 0]]
+2025-01-09 20:21:09 File saved successfully: report.txt
+2025-01-09 20:21:09 Sending message to Telegram channel
+2025-01-09 20:21:09 Sending message to Telegram channel
+2025-01-09 20:21:13 Initialized Research class with path: data.csv
+2025-01-09 20:21:13 Reading file: data.csv
+2025-01-09 20:21:13 Successfully read file with 11 lines of data
+2025-01-09 20:21:13 Initialized Calculations with data size: 11
+2025-01-09 20:21:13 Calculating counts of heads and tails
+2025-01-09 20:21:13 Counts: heads=5, tails=6
+2025-01-09 20:21:13 Calculating fractions of heads and tails
+2025-01-09 20:21:13 Calculating counts of heads and tails
+2025-01-09 20:21:13 Counts: heads=5, tails=6
+2025-01-09 20:21:13 Fractions: head_fraction=45.45%, tail_fraction=54.55%
+2025-01-09 20:21:13 Generating 5 random predictions
+2025-01-09 20:21:13 Predictions: [[0, 0], [1, 1], [1, 0], [1, 0], [1, 1]]
+2025-01-09 20:21:13 File saved successfully: report.txt
+2025-01-09 20:21:13 Sending message to Telegram channel
+2025-01-09 20:21:13 Sending message to Telegram channel
+2025-01-09 20:22:32 Initialized Research class with path: data.csv
+2025-01-09 20:22:32 Reading file: data.csv
+2025-01-09 20:22:32 Successfully read file with 11 lines of data
+2025-01-09 20:22:32 Initialized Calculations with data size: 11
+2025-01-09 20:22:32 Calculating counts of heads and tails
+2025-01-09 20:22:32 Counts: heads=5, tails=6
+2025-01-09 20:22:32 Calculating fractions of heads and tails
+2025-01-09 20:22:32 Calculating counts of heads and tails
+2025-01-09 20:22:32 Counts: heads=5, tails=6
+2025-01-09 20:22:32 Fractions: head_fraction=45.45%, tail_fraction=54.55%
+2025-01-09 20:22:32 Generating 5 random predictions
+2025-01-09 20:22:32 Predictions: [[1, 1], [1, 0], [0, 0], [0, 1], [0, 0]]
+2025-01-09 20:22:32 File saved successfully: report.txt
+2025-01-09 20:22:32 Sending message to Telegram channel
+2025-01-09 20:22:32 Error sending message to Telegram: name 'requests' is not defined
+2025-01-09 20:28:08 Initialized Research class with path: data.csv
+2025-01-09 20:28:08 Reading file: data.csv
+2025-01-09 20:28:08 Successfully read file with 11 lines of data
+2025-01-09 20:28:08 Initialized Calculations with data size: 11
+2025-01-09 20:28:08 Calculating counts of heads and tails
+2025-01-09 20:28:08 Counts: heads=5, tails=6
+2025-01-09 20:28:08 Calculating fractions of heads and tails
+2025-01-09 20:28:08 Calculating counts of heads and tails
+2025-01-09 20:28:08 Counts: heads=5, tails=6
+2025-01-09 20:28:08 Fractions: head_fraction=45.45%, tail_fraction=54.55%
+2025-01-09 20:28:08 Generating 5 random predictions
+2025-01-09 20:28:08 Predictions: [[0, 1], [0, 1], [1, 1], [0, 0], [1, 1]]
+2025-01-09 20:28:08 File saved successfully: report.txt
+2025-01-09 20:28:08 Sending message to Telegram channel
+2025-01-09 20:28:08 Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-09 20:28:08 https://api.telegram.org:443 "POST /bot7129591242:AAEYA-a_N6GHdrVFdzJVD-wLck2aq-jqFu0/sendMessage HTTP/1.1" 200 377
+2025-01-09 20:28:08 Message sent successfully: The report has been successfully created

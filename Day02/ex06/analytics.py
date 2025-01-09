@@ -87,7 +87,7 @@ class Research:
         def send_telegram_message(self, message):
             logging.info("Sending message to Telegram channel")
             payload = {
-                "chat_id": config.telegram_chat_id,
+                "chat_id": config.token_chat_id,
                 "text": message,
             }
             try:
